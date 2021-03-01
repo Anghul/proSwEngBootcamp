@@ -1,4 +1,4 @@
-package com.gifthub.anghul.bootcamp;
+package com.github.anghul.bootcamp;
 
 import android.content.Intent;
 
@@ -9,10 +9,6 @@ import androidx.test.espresso.assertion.ViewAssertions;
 import androidx.test.espresso.intent.Intents;
 import androidx.test.espresso.matcher.ViewMatchers;
 import androidx.test.ext.junit.runners.AndroidJUnit4;
-
-import com.github.anghul.bootcamp.GreetingsActivity;
-import com.github.anghul.bootcamp.MainActivity;
-import com.github.anghul.bootcamp.R;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
